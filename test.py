@@ -1,1 +1,2 @@
-print("Hello, My name is William Gunawan,1820077")
+print("Hello, My name is William Gunawan")
+print("NIM : 18220077")
