@@ -1,2 +1,1 @@
-print("Hello, My name is William Gunawan")
-print(18220077)
+print("Hello, My name is William Gunawan,1820077")
